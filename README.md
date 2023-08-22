@@ -30,6 +30,9 @@ Run the notebooks to see our data manipulation and visualization techniques in a
 ## Contributing ##
 We welcome contributions from fellow data enthusiasts! If you have new insights, data sources, or visualization ideas, feel free to submit a pull request.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE), which means you're free to use, modify, and distribute this code for personal or commercial purposes. Please refer to the LICENSE file for more details.
 
 ## Happy analyzing datasets! ##
 
