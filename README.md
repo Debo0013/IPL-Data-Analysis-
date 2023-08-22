@@ -19,8 +19,9 @@ Player Showcase: Explore the performance profiles of star players and discover h
 ## How to Use ##
 
 Clone this repository to your local machine using the following command:   
-" git clone  https://github.com/Debo0013/Analysis.git "
-
+```
+git clone  https://github.com/Debo0013/Analysis.git
+```
 Navigate to the Jupyter Notebook files to explore the analyses.
 
 Run the notebooks to see our data manipulation and visualization techniques in action.
