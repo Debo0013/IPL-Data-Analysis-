@@ -2,7 +2,7 @@
 
 Welcome to the IPL Data Analysis repository! In this project, we delve into the exciting world of the Indian Premier League (IPL) using Python. We've crunched the numbers, visualized the trends, and extracted insights that reveal the game's hidden stories.
 
-## About the Project ##
+## Project description ##
 
 This repository contains Jupyter Notebook files showcasing our in-depth analysis of IPL data. We explore a variety of dimensions, including team performances, player statistics, and match outcomes. Our goal is to uncover patterns, trends, and interesting nuggets that make the IPL more than just a game.
 
@@ -35,5 +35,3 @@ We welcome contributions from fellow data enthusiasts! If you have new insights,
 This project is licensed under the [MIT License](LICENSE), which means you're free to use, modify, and distribute this code for personal or commercial purposes. Please refer to the LICENSE file for more details.
 
 ## Happy analyzing datasets! ##
-
-
