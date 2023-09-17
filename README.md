@@ -1,6 +1,6 @@
 ## IPL Data Analysis with Python ##
 
-Welcome to the IPL Data Analysis repository! In this project, we delve into the exciting world of the Indian Premier League (IPL) using Python. We've crunched the numbers, visualized the trends, and extracted insights that reveal the game's hidden stories.
+Welcome to the IPL Data Analysis repository! In this project, we delve into the exciting world of the Indian Premier League (IPL) using Python. We've crunched the numbers, visualised the trends, and extracted insights that reveal the game's hidden stories.
 
 ## Project description ##
 
@@ -22,12 +22,12 @@ Clone this repository to your local machine using the following command:
 ```
 git clone  https://github.com/Debo0013/Analysis.git
 ```
-Navigate to the Jupyter Notebook files to explore the analyses.
+Navigate to the Jupyter Notebook files to explore the analysis.
 
-Run the notebooks to see our data manipulation and visualization techniques in action.
-
+Run the notebooks and libraries to see the data manipulation and visualization techniques in action.
 
 ## Contributing ##
+
 We welcome contributions from fellow data enthusiasts! If you have new insights, data sources, or visualization ideas, feel free to submit a pull request.
 
 ## License
